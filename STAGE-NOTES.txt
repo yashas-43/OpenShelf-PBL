@@ -1,6 +1,6 @@
-OpenShelf reconstructed stage 8/12: Student dashboard
+OpenShelf reconstructed stage 9/12: Admin dashboard
 
-Suggested commit message: Add student dashboard and borrowing status
+Suggested commit message: Build admin dashboard and management tools
 
 This archive is a thematic, cumulative reconstruction from the final uploaded project, NOT verified historical project progress. Early stages may not run independently because files depend on later stages. Use only for review or genuine further development; do not misrepresent these as past commits.
 
