@@ -1,0 +1,7 @@
+OpenShelf reconstructed stage 1/12: Project setup and tooling
+
+Suggested commit message: Initialize OpenShelf project configuration
+
+This archive is a thematic, cumulative reconstruction from the final uploaded project, NOT verified historical project progress. Early stages may not run independently because files depend on later stages. Use only for review or genuine further development; do not misrepresent these as past commits.
+
+To run the final project, use stage 12, install dependencies and supply your own environment variables. Never commit .env secrets.

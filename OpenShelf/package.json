@@ -1,0 +1,36 @@
+{
+  "name": "openshelf",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm install --prefix client && npm install --prefix server",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm run dev --prefix server",
+    "test": "npm run test:phase15 && npm run test --prefix server && node --test client/src/utils/timeRemaining.test.js",
+    "build": "npm run build --prefix client",
+    "audit:stock": "npm run audit:stock --prefix server",
+    "pdf:check": "npm run pdf:check --prefix server --",
+    "pdf:import": "npm run pdf:import --prefix server --",
+    "stock:set-three": "npm run stock:set-three --prefix server --",
+    "catalogue:check": "npm run catalogue:check --prefix server",
+    "catalogue:preview": "npm run catalogue:preview --prefix server",
+    "catalogue:apply": "npm run catalogue:apply --prefix server --",
+    "email:process": "npm run email:process --prefix server",
+    "audit:student-stock": "npm run audit:student-stock --prefix server",
+    "notifications:process": "npm run notifications:process --prefix server",
+    "stock:student-three": "npm run stock:student-three --prefix server --",
+    "accounts:preview": "npm run accounts:reset --prefix server -- --preview",
+    "accounts:reset": "npm run accounts:reset --prefix server --",
+    "verify:imports": "node scripts/verifySourceImports.mjs",
+    "test:phase15": "node --test scripts/verifySourceImports.test.mjs scripts/smokeApi.test.mjs server/src/tests/phase15Security.test.js",
+    "smoke:api": "node scripts/smokeApi.mjs",
+    "catalogue:duplicates:preview": "npm run catalogue:duplicates:preview --prefix server",
+    "catalogue:duplicates:apply": "npm run catalogue:duplicates:apply --prefix server --",
+    "catalogue:text-index:preview": "npm run catalogue:text-index:preview --prefix server",
+    "catalogue:text-index:apply": "npm run catalogue:text-index:apply --prefix server --"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

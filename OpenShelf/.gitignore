@@ -1,0 +1,18 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/uploads/*
+!server/uploads/.gitkeep
+.env
+.env.*
+!.env.example
+.DS_Store
+
+textbook-manifest.csv
+
+# Phase 11 admin-uploaded physical book cover files
+**/cover-uploads/
+
+# Phase 13 locally uploaded peer-to-peer book photos
+**/peer-photo-uploads/

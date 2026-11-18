@@ -1,0 +1,44 @@
+{
+  "name": "openshelf-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "hash-password": "node src/scripts/hashPassword.js",
+    "test": "node --test src/tests/*.test.js",
+    "audit:stock": "node src/scripts/auditBorrowingStock.js",
+    "pdf:check": "node src/scripts/importStudentPdfs.js --check",
+    "pdf:import": "node src/scripts/importStudentPdfs.js --import",
+    "stock:set-three": "node src/scripts/setThreeCopyInventory.js",
+    "catalogue:check": "node src/scripts/importGeneralBooks.js --check",
+    "catalogue:preview": "node src/scripts/importGeneralBooks.js --preview",
+    "catalogue:apply": "node src/scripts/importGeneralBooks.js --apply",
+    "email:process": "node src/scripts/processEmails.js",
+    "audit:student-stock": "node src/scripts/auditStudentStock.js",
+    "notifications:process": "node src/scripts/processNotifications.js",
+    "stock:student-three": "node src/scripts/setStudentPhysicalInventory.js",
+    "accounts:reset": "node src/scripts/retireStudentAccounts.js",
+    "catalogue:duplicates:preview": "node src/scripts/auditGeneralBookDuplicates.js --preview",
+    "catalogue:duplicates:apply": "node src/scripts/auditGeneralBookDuplicates.js --apply",
+    "catalogue:text-index:preview": "node src/scripts/repairGeneralBookTextIndex.js --preview",
+    "catalogue:text-index:apply": "node src/scripts/repairGeneralBookTextIndex.js --apply"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.2",
+    "nodemailer": "^6.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
