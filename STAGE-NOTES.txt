@@ -1,6 +1,6 @@
-OpenShelf reconstructed stage 4/12: Authentication
+OpenShelf reconstructed stage 5/12: General books
 
-Suggested commit message: Implement registration login and email verification
+Suggested commit message: Integrate general books catalogue
 
 This archive is a thematic, cumulative reconstruction from the final uploaded project, NOT verified historical project progress. Early stages may not run independently because files depend on later stages. Use only for review or genuine further development; do not misrepresent these as past commits.
 

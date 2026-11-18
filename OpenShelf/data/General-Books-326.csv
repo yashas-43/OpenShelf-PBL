@@ -1,0 +1,327 @@
+﻿Source Book ID,Title,Author,Original Genre,OpenShelf Genre,Language,Description
+GEN001,Ramayana,Valmiki,Indian Epics and Mythology,Religion and Spirituality,Sanskrit,"Epic of Prince Rama's exile, the abduction of Sita and the war against Ravana."
+GEN002,Mahabharata,Vyasa,Indian Epics and Mythology,Religion and Spirituality,Sanskrit,Epic of the Kurukshetra war between the Pandavas and Kauravas.
+GEN003,Bhagavad Gita,Vyasa,Indian Epics and Mythology,Religion and Spirituality,Sanskrit,Krishna's philosophical dialogue with Arjuna on duty and devotion.
+GEN004,The Palace of Illusions,Chitra Banerjee Divakaruni,Indian Epics and Mythology,Religion and Spirituality,English,The Mahabharata retold from Draupadi's point of view.
+GEN005,The Immortals of Meluha,Amish Tripathi,Indian Epics and Mythology,Religion and Spirituality,English,"First book of the Shiva Trilogy, a mythological adventure."
+GEN006,The Secret of the Nagas,Amish Tripathi,Indian Epics and Mythology,Religion and Spirituality,English,Second book of the Shiva Trilogy.
+GEN007,The Oath of the Vayuputras,Amish Tripathi,Indian Epics and Mythology,Religion and Spirituality,English,Final book of the Shiva Trilogy.
+GEN008,Sita: Warrior of Mithila,Amish Tripathi,Indian Epics and Mythology,Religion and Spirituality,English,Ramayana series novel centred on Sita.
+GEN009,Jaya: An Illustrated Retelling of the Mahabharata,Devdutt Pattanaik,Indian Epics and Mythology,Religion and Spirituality,English,Illustrated retelling of the Mahabharata.
+GEN010,Yajnaseni,Pratibha Ray,Indian Epics and Mythology,Religion and Spirituality,Odia,Novel told through Draupadi's voice.
+GEN011,Mrityunjaya,Shivaji Sawant,Indian Epics and Mythology,Religion and Spirituality,Marathi,Novel on the life of Karna.
+GEN012,Karna's Wife: The Outcast's Queen,Kavita Kane,Indian Epics and Mythology,Religion and Spirituality,English,"Novel about Uruvi, wife of Karna."
+GEN013,The Discovery of India,Jawaharlal Nehru,Indian History,History,English,Nehru's reflections on India's history and culture.
+GEN014,India After Gandhi,Ramachandra Guha,Indian History,History,English,History of independent India.
+GEN015,The Wonder That Was India,A. L. Basham,Indian History,History,English,Survey of ancient Indian civilisation.
+GEN016,Early India: From the Origins to AD 1300,Romila Thapar,Indian History,History,English,Scholarly history of early India.
+GEN017,An Era of Darkness,Shashi Tharoor,Indian History,History,English,Critical account of British rule in India.
+GEN018,The Last Mughal,William Dalrymple,Indian History,History,English,The fall of Delhi in 1857.
+GEN019,Freedom at Midnight,Larry Collins,Indian History,History,English,Account of India's independence and Partition.
+GEN020,India: A History,John Keay,Indian History,History,English,Single-volume history of the subcontinent.
+GEN021,Sapiens: A Brief History of Humankind,Yuval Noah Harari,World History,History,English,History of the human species.
+GEN022,"Guns, Germs, and Steel",Jared Diamond,World History,History,English,Why some societies came to dominate others.
+GEN023,A Short History of the World,H. G. Wells,World History,History,English,Popular one-volume world history.
+GEN024,SPQR: A History of Ancient Rome,Mary Beard,World History,History,English,History of Rome from its origins to 212 CE.
+GEN025,The Histories,Herodotus,World History,History,Greek,Early account of the Greco-Persian wars.
+GEN026,History of the Peloponnesian War,Thucydides,World History,History,Greek,Account of the war between Athens and Sparta.
+GEN027,A People's History of the United States,Howard Zinn,World History,History,English,US history from the viewpoint of ordinary people.
+GEN028,The Silk Roads,Peter Frankopan,World History,History,English,World history centred on Eurasian trade routes.
+GEN029,The Guns of August,Barbara W. Tuchman,World History,History,English,The opening month of the First World War.
+GEN030,Postwar: A History of Europe Since 1945,Tony Judt,World History,History,English,History of Europe after the Second World War.
+GEN031,Godan,Premchand,Fiction,Fiction,Hindi,"Novel of a poor peasant, Hori, in rural India."
+GEN032,Malgudi Days,R. K. Narayan,Fiction,Fiction,English,Short stories set in the fictional town of Malgudi.
+GEN033,The Guide,R. K. Narayan,Fiction,Fiction,English,Novel of a tourist guide who becomes a spiritual figure.
+GEN034,Swami and Friends,R. K. Narayan,Fiction,Fiction,English,Novel of a schoolboy in Malgudi.
+GEN035,Train to Pakistan,Khushwant Singh,Fiction,Fiction,English,Novel set during the 1947 Partition.
+GEN036,The God of Small Things,Arundhati Roy,Fiction,Fiction,English,Family tragedy in Kerala.
+GEN037,Midnight's Children,Salman Rushdie,Fiction,Fiction,English,Novel of children born at India's independence.
+GEN038,A Suitable Boy,Vikram Seth,Fiction,Fiction,English,Epic family and love story in post-independence India.
+GEN039,The White Tiger,Aravind Adiga,Fiction,Fiction,English,Novel of a driver's rise in modern India.
+GEN040,Samskara,U. R. Ananthamurthy,Fiction,Fiction,Kannada,Kannada novel on Brahmin orthodoxy and death.
+GEN041,Chomana Dudi,K. Shivarama Karanth,Fiction,Fiction,Kannada,Kannada novel of an untouchable farmer's longing for land.
+GEN042,Chemmeen,Thakazhi Sivasankara Pillai,Fiction,Fiction,Malayalam,Malayalam novel of a fishing community in Kerala.
+GEN043,Pather Panchali,Bibhutibhushan Bandyopadhyay,Fiction,Fiction,Bengali,Novel of a poor Bengali village family.
+GEN044,Gora,Rabindranath Tagore,Fiction,Fiction,Bengali,Novel on identity and nationalism.
+GEN045,Great Expectations,Charles Dickens,Fiction,Fiction,English,The story of the orphan Pip.
+GEN046,Oliver Twist,Charles Dickens,Fiction,Fiction,English,An orphan's life among London's poor and criminals.
+GEN047,A Tale of Two Cities,Charles Dickens,Fiction,Fiction,English,Novel set in London and Paris during the French Revolution.
+GEN048,To Kill a Mockingbird,Harper Lee,Fiction,Fiction,English,Racial injustice in a 1930s Alabama town.
+GEN049,Nineteen Eighty-Four,George Orwell,Fiction,Fiction,English,Dystopian novel of totalitarian surveillance.
+GEN050,Animal Farm,George Orwell,Fiction,Fiction,English,Allegorical novella on revolution and power.
+GEN051,The Great Gatsby,F. Scott Fitzgerald,Fiction,Fiction,English,Novel of wealth and obsession in 1920s America.
+GEN052,The Old Man and the Sea,Ernest Hemingway,Fiction,Fiction,English,An old fisherman's struggle with a giant marlin.
+GEN053,Les Misérables,Victor Hugo,Fiction,Fiction,French,Epic of Jean Valjean in 19th-century France.
+GEN054,War and Peace,Leo Tolstoy,Fiction,Fiction,Russian,Novel of Russian society during the Napoleonic wars.
+GEN055,The Alchemist,Paulo Coelho,Fiction,Fiction,Portuguese,A shepherd's journey in pursuit of his dream.
+GEN056,The Kite Runner,Khaled Hosseini,Fiction,Fiction,English,Novel of friendship and guilt in Afghanistan.
+GEN057,One Hundred Years of Solitude,Gabriel García Márquez,Fiction,Fiction,Spanish,Multigenerational saga of the Buendía family.
+GEN058,The Catcher in the Rye,J. D. Salinger,Fiction,Fiction,English,Teenage narrator's alienation in New York.
+GEN059,Don Quixote,Miguel de Cervantes,Fiction,Fiction,Spanish,A would-be knight's comic adventures.
+GEN060,Dracula,Bram Stoker,Horror,Horror,English,Gothic novel of Count Dracula's attempt to move to England.
+GEN061,Frankenstein,Mary Shelley,Horror,Horror,English,A scientist creates a living being from dead matter.
+GEN062,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,Horror,Horror,English,Novella on a man's divided nature.
+GEN063,The Picture of Dorian Gray,Oscar Wilde,Horror,Horror,English,A portrait ages while its subject stays young.
+GEN064,Carmilla,J. Sheridan Le Fanu,Horror,Horror,English,Gothic novella about a female vampire.
+GEN065,The Turn of the Screw,Henry James,Horror,Horror,English,Ghost story about a governess and two children.
+GEN066,The Haunting of Hill House,Shirley Jackson,Horror,Horror,English,Paranormal investigators in a haunted house.
+GEN067,The Shining,Stephen King,Horror,Horror,English,A caretaker's family in an isolated haunted hotel.
+GEN068,Interview with the Vampire,Anne Rice,Horror,Horror,English,A vampire tells his life story to a reporter.
+GEN069,The Woman in Black,Susan Hill,Horror,Horror,English,Gothic ghost story set on an English marsh.
+GEN070,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,Mystery,English,Twelve detective stories featuring Sherlock Holmes.
+GEN071,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,Mystery,English,Holmes investigates a legendary spectral hound.
+GEN072,A Study in Scarlet,Arthur Conan Doyle,Mystery,Mystery,English,First Sherlock Holmes novel.
+GEN073,The Sign of the Four,Arthur Conan Doyle,Mystery,Mystery,English,Holmes and Watson pursue a treasure and a murderer.
+GEN074,And Then There Were None,Agatha Christie,Mystery,Mystery,English,Ten strangers are killed one by one on an island.
+GEN075,The Murder of Roger Ackroyd,Agatha Christie,Mystery,Mystery,English,Hercule Poirot investigates a village murder.
+GEN076,Murder on the Orient Express,Agatha Christie,Mystery,Mystery,English,Poirot solves a murder aboard a snowbound train.
+GEN077,The Moonstone,Wilkie Collins,Mystery,Mystery,English,Early detective novel about a stolen diamond.
+GEN078,The Name of the Rose,Umberto Eco,Mystery,Mystery,Italian,Medieval monastery murder mystery.
+GEN079,The Complete Adventures of Feluda,Satyajit Ray,Mystery,Mystery,Bengali,"Detective stories of Feluda, originally in Bengali."
+GEN080,The Da Vinci Code,Dan Brown,Thriller,Thriller,English,Symbologist Robert Langdon investigates a murder in the Louvre.
+GEN081,Angels & Demons,Dan Brown,Thriller,Thriller,English,Langdon races to stop a threat against the Vatican.
+GEN082,The Day of the Jackal,Frederick Forsyth,Thriller,Thriller,English,An assassin plots to kill the French president.
+GEN083,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,Thriller,Swedish,A journalist and a hacker investigate a decades-old disappearance.
+GEN084,Gone Girl,Gillian Flynn,Thriller,Thriller,English,A wife's disappearance exposes a troubled marriage.
+GEN085,The Hunt for Red October,Tom Clancy,Thriller,Thriller,English,A Soviet submarine captain attempts to defect.
+GEN086,The Silence of the Lambs,Thomas Harris,Thriller,Thriller,English,An FBI trainee seeks help from Hannibal Lecter.
+GEN087,The Thirty-Nine Steps,John Buchan,Thriller,Thriller,English,Richard Hannay flees spies and the police.
+GEN088,The Big Sleep,Raymond Chandler,Crime Fiction,Mystery,English,Philip Marlowe's first novel.
+GEN089,The Maltese Falcon,Dashiell Hammett,Crime Fiction,Mystery,English,Sam Spade pursues a priceless statuette.
+GEN090,In Cold Blood,Truman Capote,Crime Fiction,Mystery,English,Nonfiction novel on the Clutter family murders.
+GEN091,The Talented Mr. Ripley,Patricia Highsmith,Crime Fiction,Mystery,English,A con man assumes another man's identity.
+GEN092,The Godfather,Mario Puzo,Crime Fiction,Mystery,English,Saga of a New York Mafia family.
+GEN093,Crime and Punishment,Fyodor Dostoevsky,Crime Fiction,Mystery,Russian,A student's murder and moral reckoning.
+GEN094,Sacred Games,Vikram Chandra,Crime Fiction,Mystery,English,A Mumbai police inspector and a gangster.
+GEN095,The Hobbit,J. R. R. Tolkien,Fantasy,Fantasy,English,Bilbo Baggins joins a quest to reclaim a dwarf kingdom.
+GEN096,The Lord of the Rings,J. R. R. Tolkien,Fantasy,Fantasy,English,The quest to destroy the One Ring.
+GEN097,Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,Fantasy,English,A girl falls into a fantastical underground world.
+GEN098,Through the Looking-Glass,Lewis Carroll,Fantasy,Fantasy,English,Alice's sequel adventure behind the mirror.
+GEN099,"The Lion, the Witch and the Wardrobe",C. S. Lewis,Fantasy,Fantasy,English,Children enter the magical land of Narnia.
+GEN100,Harry Potter and the Philosopher's Stone,J. K. Rowling,Fantasy,Fantasy,English,A boy discovers he is a wizard.
+GEN101,A Game of Thrones,George R. R. Martin,Fantasy,Fantasy,English,First book of A Song of Ice and Fire.
+GEN102,The Name of the Wind,Patrick Rothfuss,Fantasy,Fantasy,English,A legendary wizard recounts his life.
+GEN103,A Wizard of Earthsea,Ursula K. Le Guin,Fantasy,Fantasy,English,A young wizard's training and its consequences.
+GEN104,American Gods,Neil Gaiman,Fantasy,Fantasy,English,Old gods battle new ones in America.
+GEN105,The Princess Bride,William Goldman,Fantasy,Fantasy,English,Fairy-tale adventure of love and revenge.
+GEN106,Dune,Frank Herbert,Science Fiction,Science Fiction,English,Political and ecological epic on the desert planet Arrakis.
+GEN107,The Time Machine,H. G. Wells,Science Fiction,Science Fiction,English,A traveller journeys to the far future.
+GEN108,Twenty Thousand Leagues Under the Sea,Jules Verne,Science Fiction,Science Fiction,French,Undersea voyage aboard Captain Nemo's Nautilus.
+GEN109,The War of the Worlds,H. G. Wells,Science Fiction,Science Fiction,English,Martians invade England.
+GEN110,Journey to the Centre of the Earth,Jules Verne,Science Fiction,Science Fiction,French,An expedition descends through a volcano.
+GEN111,From the Earth to the Moon,Jules Verne,Science Fiction,Science Fiction,French,Americans plan to launch a projectile to the Moon.
+GEN112,Foundation,Isaac Asimov,Science Fiction,Science Fiction,English,A mathematician plans to preserve knowledge through a galactic collapse.
+GEN113,"I, Robot",Isaac Asimov,Science Fiction,Science Fiction,English,Linked stories on robots and the Three Laws.
+GEN114,Neuromancer,William Gibson,Science Fiction,Science Fiction,English,Foundational cyberpunk novel.
+GEN115,Brave New World,Aldous Huxley,Science Fiction,Science Fiction,English,Dystopia of engineered happiness.
+GEN116,Fahrenheit 451,Ray Bradbury,Science Fiction,Science Fiction,English,A fireman burns books in a censored future.
+GEN117,Ender's Game,Orson Scott Card,Science Fiction,Science Fiction,English,A boy is trained to fight an alien war.
+GEN118,The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,Science Fiction,English,An envoy on a planet without fixed gender.
+GEN119,The Martian,Andy Weir,Science Fiction,Science Fiction,English,An astronaut is stranded on Mars.
+GEN120,Solaris,Stanisław Lem,Science Fiction,Science Fiction,Polish,Scientists study a mysterious sentient ocean planet.
+GEN121,Pride and Prejudice,Jane Austen,Romance,Romance,English,Elizabeth Bennet and Mr Darcy's changing relationship.
+GEN122,Jane Eyre,Charlotte Brontë,Romance,Romance,English,An orphan governess and her love for Mr Rochester.
+GEN123,Wuthering Heights,Emily Brontë,Romance,Romance,English,The destructive love of Heathcliff and Catherine.
+GEN124,Sense and Sensibility,Jane Austen,Romance,Romance,English,Two sisters' contrasting approaches to love.
+GEN125,Emma,Jane Austen,Romance,Romance,English,A young woman's matchmaking goes awry.
+GEN126,Persuasion,Jane Austen,Romance,Romance,English,A second chance at love for Anne Elliot.
+GEN127,Rebecca,Daphne du Maurier,Romance,Romance,English,A new wife is haunted by her husband's first wife.
+GEN128,Anna Karenina,Leo Tolstoy,Romance,Romance,Russian,A married woman's affair and its consequences.
+GEN129,Love in the Time of Cholera,Gabriel García Márquez,Romance,Romance,Spanish,A love lasting over fifty years.
+GEN130,2 States,Chetan Bhagat,Romance,Romance,English,A Punjabi boy and a Tamil girl seek family approval.
+GEN131,The Notebook,Nicholas Sparks,Romance,Romance,English,A love story told across decades.
+GEN132,Treasure Island,Robert Louis Stevenson,Adventure,Adventure,English,A boy joins a voyage to find pirate treasure.
+GEN133,Around the World in Eighty Days,Jules Verne,Adventure,Adventure,French,Phileas Fogg wagers he can circle the globe in 80 days.
+GEN134,The Adventures of Tom Sawyer,Mark Twain,Adventure,Adventure,English,A boy's adventures along the Mississippi.
+GEN135,The Adventures of Huckleberry Finn,Mark Twain,Adventure,Adventure,English,Huck and Jim travel down the Mississippi.
+GEN136,The Count of Monte Cristo,Alexandre Dumas,Adventure,Adventure,French,A wrongly imprisoned man plans revenge.
+GEN137,The Three Musketeers,Alexandre Dumas,Adventure,Adventure,French,D'Artagnan joins the King's Musketeers.
+GEN138,Robinson Crusoe,Daniel Defoe,Adventure,Adventure,English,A castaway survives on a remote island.
+GEN139,Kidnapped,Robert Louis Stevenson,Adventure,Adventure,English,A young man is kidnapped in 18th-century Scotland.
+GEN140,King Solomon's Mines,H. Rider Haggard,Adventure,Adventure,English,An expedition seeks a lost African treasure.
+GEN141,The Call of the Wild,Jack London,Adventure,Adventure,English,A dog is thrust into the Klondike wilderness.
+GEN142,Kim,Rudyard Kipling,Adventure,Adventure,English,An orphan boy in British India becomes a spy.
+GEN143,Gulliver's Travels,Jonathan Swift,Adventure,Adventure,English,A surgeon visits strange lands.
+GEN144,The Jungle Book,Rudyard Kipling,Children's Books,Children’s Books,English,Mowgli is raised by wolves in the Indian jungle.
+GEN145,The Secret Garden,Frances Hodgson Burnett,Children's Books,Children’s Books,English,An orphan discovers a hidden garden.
+GEN146,Heidi,Johanna Spyri,Children's Books,Children’s Books,German,An orphan girl lives with her grandfather in the Alps.
+GEN147,Charlotte's Web,E. B. White,Children's Books,Children’s Books,English,A pig is saved by a spider's words.
+GEN148,Winnie-the-Pooh,A. A. Milne,Children's Books,Children’s Books,English,Adventures of a bear and his friends.
+GEN149,Peter Pan,J. M. Barrie,Children's Books,Children’s Books,English,The boy who never grows up.
+GEN150,The Wonderful Wizard of Oz,L. Frank Baum,Children's Books,Children’s Books,English,Dorothy travels to the Emerald City.
+GEN151,Black Beauty,Anna Sewell,Children's Books,Children’s Books,English,A horse narrates his life.
+GEN152,Matilda,Roald Dahl,Children's Books,Children’s Books,English,A gifted girl uses her powers against cruel adults.
+GEN153,Charlie and the Chocolate Factory,Roald Dahl,Children's Books,Children’s Books,English,A boy wins a tour of Willy Wonka's factory.
+GEN154,The Little Prince,Antoine de Saint-Exupéry,Children's Books,Children’s Books,French,A pilot meets a prince from another planet.
+GEN155,Panchatantra,Vishnu Sharma,Children's Books,Children’s Books,Sanskrit,Ancient Indian animal fables.
+GEN156,The Blue Umbrella,Ruskin Bond,Children's Books,Children’s Books,English,A village girl and her prized umbrella.
+GEN157,Pinocchio,Carlo Collodi,Children's Books,Children’s Books,Italian,A wooden puppet who wants to be a real boy.
+GEN158,Anne of Green Gables,L. M. Montgomery,Children's Books,Children’s Books,English,An orphan girl is adopted on Prince Edward Island.
+GEN159,The Wind in the Willows,Kenneth Grahame,Children's Books,Children’s Books,English,Riverbank animals and their adventures.
+GEN160,Just So Stories,Rudyard Kipling,Children's Books,Children’s Books,English,Fanciful tales of how animals got their traits.
+GEN161,Little Women,Louisa May Alcott,Young Adult Fiction,Fiction,English,The lives of the four March sisters.
+GEN162,The Hunger Games,Suzanne Collins,Young Adult Fiction,Fiction,English,Teenagers fight in a televised death contest.
+GEN163,The Fault in Our Stars,John Green,Young Adult Fiction,Fiction,English,Two teenagers with cancer fall in love.
+GEN164,The Perks of Being a Wallflower,Stephen Chbosky,Young Adult Fiction,Fiction,English,A shy teenager's first year of high school.
+GEN165,Percy Jackson and the Lightning Thief,Rick Riordan,Young Adult Fiction,Fiction,English,A boy learns he is a demigod.
+GEN166,Divergent,Veronica Roth,Young Adult Fiction,Fiction,English,A teenager in a faction-based dystopian Chicago.
+GEN167,The Outsiders,S. E. Hinton,Young Adult Fiction,Fiction,English,Rival teenage gangs in 1960s Oklahoma.
+GEN168,Wonder,R. J. Palacio,Young Adult Fiction,Fiction,English,A boy with facial differences starts school.
+GEN169,The Giver,Lois Lowry,Young Adult Fiction,Fiction,English,A boy is chosen to hold his community's memories.
+GEN170,Five Point Someone,Chetan Bhagat,Young Adult Fiction,Fiction,English,Three engineering students at IIT.
+GEN171,Tintin in Tibet,Hergé,Comics,Literature,French,Tintin searches the Himalayas for his friend Chang.
+GEN172,The Blue Lotus,Hergé,Comics,Literature,French,Tintin investigates an opium ring in China.
+GEN173,Asterix the Gaul,René Goscinny,Comics,Literature,French,First Asterix album about a village resisting Rome.
+GEN174,Asterix and Cleopatra,René Goscinny,Comics,Literature,French,Asterix helps Cleopatra build a palace.
+GEN175,Calvin and Hobbes,Bill Watterson,Comics,Literature,English,Comic strip collection about a boy and his tiger.
+GEN176,Krishna,Anant Pai,Comics,Literature,English,Amar Chitra Katha comic on the life of Krishna.
+GEN177,Maus,Art Spiegelman,Graphic Novels,Literature,English,Holocaust memoir with mice and cats as characters.
+GEN178,Persepolis,Marjane Satrapi,Graphic Novels,Literature,French,Memoir of growing up in Iran.
+GEN179,Watchmen,Alan Moore,Graphic Novels,Literature,English,Deconstruction of the superhero genre.
+GEN180,V for Vendetta,Alan Moore,Graphic Novels,Literature,English,A masked anarchist opposes a fascist state.
+GEN181,The Sandman: Preludes and Nocturnes,Neil Gaiman,Graphic Novels,Literature,English,First collected volume of The Sandman.
+GEN182,Sita's Ramayana,Samhita Arni,Graphic Novels,Literature,English,The Ramayana told from Sita's perspective.
+GEN183,Bhimayana,Srividya Natarajan,Graphic Novels,Literature,English,Graphic biography of B. R. Ambedkar.
+GEN184,Corridor,Sarnath Banerjee,Graphic Novels,Literature,English,Graphic novel set in Delhi.
+GEN185,Fun Home,Alison Bechdel,Graphic Novels,Literature,English,Graphic memoir about family and identity.
+GEN186,Steve Jobs,Walter Isaacson,Biography,Biography,English,Authorised biography of Apple's co-founder.
+GEN187,Einstein: His Life and Universe,Walter Isaacson,Biography,Biography,English,Biography of Albert Einstein.
+GEN188,Leonardo da Vinci,Walter Isaacson,Biography,Biography,English,Biography of Leonardo da Vinci.
+GEN189,Gandhi Before India,Ramachandra Guha,Biography,Biography,English,Gandhi's life up to 1915.
+GEN190,Dr. Ambedkar: Life and Mission,Dhananjay Keer,Biography,Biography,English,Biography of B. R. Ambedkar.
+GEN191,Madame Curie,Ève Curie,Biography,Biography,French,Biography of Marie Curie by her daughter.
+GEN192,The Man Who Knew Infinity,Robert Kanigel,Biography,Biography,English,Biography of mathematician Srinivasa Ramanujan.
+GEN193,Nehru: The Invention of India,Shashi Tharoor,Biography,Biography,English,Short biography of Jawaharlal Nehru.
+GEN194,Alexander Hamilton,Ron Chernow,Biography,Biography,English,Biography of the US founding father.
+GEN195,The Story of My Experiments with Truth,M. K. Gandhi,Autobiography,Autobiography,Gujarati,Gandhi's autobiography.
+GEN196,Wings of Fire,A. P. J. Abdul Kalam,Autobiography,Autobiography,English,Kalam's autobiography.
+GEN197,Long Walk to Freedom,Nelson Mandela,Autobiography,Autobiography,English,Mandela's autobiography.
+GEN198,The Diary of a Young Girl,Anne Frank,Autobiography,Autobiography,Dutch,A Jewish girl's diary of hiding during the Second World War.
+GEN199,Toward Freedom,Jawaharlal Nehru,Autobiography,Autobiography,English,Nehru's autobiography.
+GEN200,I Know Why the Caged Bird Sings,Maya Angelou,Autobiography,Autobiography,English,Memoir of Angelou's childhood.
+GEN201,Becoming,Michelle Obama,Autobiography,Autobiography,English,Memoir of Michelle Obama.
+GEN202,Playing It My Way,Sachin Tendulkar,Autobiography,Autobiography,English,Cricketer Sachin Tendulkar's autobiography.
+GEN203,Born a Crime,Trevor Noah,Autobiography,Autobiography,English,Memoir of growing up in apartheid South Africa.
+GEN204,A Brief History of Time,Stephen Hawking,Science,Science,English,Introduction to cosmology.
+GEN205,Cosmos,Carl Sagan,Science,Science,English,Popular science tour of the universe.
+GEN206,The Selfish Gene,Richard Dawkins,Science,Science,English,Gene-centred view of evolution.
+GEN207,On the Origin of Species,Charles Darwin,Science,Science,English,Darwin's theory of natural selection.
+GEN208,The Elegant Universe,Brian Greene,Science,Science,English,Introduction to string theory.
+GEN209,"Surely You're Joking, Mr. Feynman!",Richard P. Feynman,Science,Science,English,Anecdotes from a physicist's life.
+GEN210,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,Science,English,Brief overview of astrophysics.
+GEN211,The Double Helix,James D. Watson,Science,Science,English,Account of the discovery of DNA's structure.
+GEN212,The Innovators,Walter Isaacson,Technology,Technology,English,History of the digital revolution.
+GEN213,Clean Code,Robert C. Martin,Technology,Technology,English,Handbook of agile software craftsmanship.
+GEN214,The Pragmatic Programmer,Andrew Hunt,Technology,Technology,English,Practical advice for software developers.
+GEN215,Introduction to Algorithms,Thomas H. Cormen,Technology,Technology,English,Standard algorithms textbook.
+GEN216,The Mythical Man-Month,Frederick P. Brooks Jr.,Technology,Technology,English,Essays on software project management.
+GEN217,Life 3.0,Max Tegmark,Technology,Technology,English,Being human in the age of artificial intelligence.
+GEN218,The Code Book,Simon Singh,Technology,Technology,English,History of codes and cryptography.
+GEN219,Superintelligence,Nick Bostrom,Technology,Technology,English,Risks and strategies of advanced AI.
+GEN220,How to Win Friends and Influence People,Dale Carnegie,Self-help,Self-Help,English,Classic guide to dealing with people.
+GEN221,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-help,Self-Help,English,Principles of personal effectiveness.
+GEN222,Think and Grow Rich,Napoleon Hill,Self-help,Self-Help,English,Principles of success and wealth.
+GEN223,The Power of Positive Thinking,Norman Vincent Peale,Self-help,Self-Help,English,Techniques for a positive outlook.
+GEN224,Who Moved My Cheese?,Spencer Johnson,Self-help,Self-Help,English,Parable about coping with change.
+GEN225,You Can Win,Shiv Khera,Self-help,Self-Help,English,Guide to success and positive attitude.
+GEN226,The Secret,Rhonda Byrne,Self-help,Self-Help,English,Book on the law of attraction.
+GEN227,Awaken the Giant Within,Tony Robbins,Self-help,Self-Help,English,Guide to taking control of one's life.
+GEN228,Atomic Habits,James Clear,Personal Development,Self-Help,English,A system for building good habits.
+GEN229,Mindset: The New Psychology of Success,Carol S. Dweck,Personal Development,Self-Help,English,Fixed versus growth mindset.
+GEN230,Deep Work,Cal Newport,Personal Development,Self-Help,English,Rules for focused success.
+GEN231,Grit,Angela Duckworth,Personal Development,Self-Help,English,The role of passion and perseverance.
+GEN232,The Power of Now,Eckhart Tolle,Personal Development,Self-Help,English,Guide to living in the present.
+GEN233,Ikigai,Héctor García,Personal Development,Self-Help,English,Japanese approach to a purposeful life.
+GEN234,"Thinking, Fast and Slow",Daniel Kahneman,Personal Development,Self-Help,English,Two systems of human thought.
+GEN235,Meditations,Marcus Aurelius,Philosophy,Philosophy,Greek,Personal Stoic reflections.
+GEN236,The Republic,Plato,Philosophy,Philosophy,Greek,Dialogue on justice and the ideal state.
+GEN237,Nicomachean Ethics,Aristotle,Philosophy,Philosophy,Greek,Aristotle's work on virtue and the good life.
+GEN238,Beyond Good and Evil,Friedrich Nietzsche,Philosophy,Philosophy,German,Critique of traditional morality.
+GEN239,Critique of Pure Reason,Immanuel Kant,Philosophy,Philosophy,German,Kant's study of the limits of reason.
+GEN240,The Problems of Philosophy,Bertrand Russell,Philosophy,Philosophy,English,Short introduction to philosophy.
+GEN241,Sophie's World,Jostein Gaarder,Philosophy,Philosophy,Norwegian,Novel introducing the history of philosophy.
+GEN242,Discourse on the Method,René Descartes,Philosophy,Philosophy,French,Descartes on method and doubt.
+GEN243,Arthashastra,Kautilya,Philosophy,Philosophy,Sanskrit,Ancient Indian treatise on statecraft and economics.
+GEN244,Man's Search for Meaning,Viktor E. Frankl,Philosophy,Philosophy,German,Reflections on finding meaning in suffering.
+GEN245,Autobiography of a Yogi,Paramahansa Yogananda,Spirituality,Religion and Spirituality,English,Yogananda's spiritual memoir.
+GEN246,Siddhartha,Hermann Hesse,Spirituality,Religion and Spirituality,German,A young man's search for enlightenment.
+GEN247,Yoga Sutras of Patanjali,Patanjali,Spirituality,Religion and Spirituality,Sanskrit,Classical text on yoga philosophy.
+GEN248,Dhammapada,Anonymous,Spirituality,Religion and Spirituality,Pali,Collection of Buddhist verses.
+GEN249,Tao Te Ching,Laozi,Spirituality,Religion and Spirituality,Chinese,Foundational Taoist text.
+GEN250,Raja Yoga,Swami Vivekananda,Spirituality,Religion and Spirituality,English,Vivekananda's lectures on the yoga system.
+GEN251,The Miracle of Mindfulness,Thich Nhat Hanh,Spirituality,Religion and Spirituality,Vietnamese,Introduction to mindfulness practice.
+GEN252,The Upanishads,Anonymous,Spirituality,Religion and Spirituality,Sanskrit,Ancient Indian philosophical texts.
+GEN253,Gitanjali,Rabindranath Tagore,Poetry,Poetry,Bengali,Collection of devotional poems.
+GEN254,Leaves of Grass,Walt Whitman,Poetry,Poetry,English,Whitman's landmark poetry collection.
+GEN255,The Waste Land,T. S. Eliot,Poetry,Poetry,English,Modernist poem of cultural fragmentation.
+GEN256,Paradise Lost,John Milton,Poetry,Poetry,English,Epic poem of the Fall of Man.
+GEN257,Madhushala,Harivansh Rai Bachchan,Poetry,Poetry,Hindi,Hindi poem sequence using wine as a metaphor.
+GEN258,Songs of Innocence and of Experience,William Blake,Poetry,Poetry,English,Poetry collection on contrasting states of the soul.
+GEN259,Ariel,Sylvia Plath,Poetry,Poetry,English,Plath's posthumous poetry collection.
+GEN260,The Prophet,Kahlil Gibran,Poetry,Poetry,English,Prose poems on life's themes.
+GEN261,Sri Ramayana Darshanam,Kuvempu,Poetry,Poetry,Kannada,Kannada epic retelling of the Ramayana.
+GEN262,Meghaduta,Kalidasa,Poetry,Poetry,Sanskrit,Sanskrit lyric poem of a cloud messenger.
+GEN263,Hamlet,William Shakespeare,Drama,Literature,English,Prince Hamlet seeks revenge for his father's murder.
+GEN264,Macbeth,William Shakespeare,Drama,Literature,English,A Scottish nobleman's rise through murder.
+GEN265,Romeo and Juliet,William Shakespeare,Drama,Literature,English,Tragic love of two feuding families' children.
+GEN266,Othello,William Shakespeare,Drama,Literature,English,A general is manipulated into jealousy by Iago.
+GEN267,A Midsummer Night's Dream,William Shakespeare,Drama,Literature,English,Comedy of lovers and fairies in a forest.
+GEN268,Julius Caesar,William Shakespeare,Drama,Literature,English,Conspiracy and assassination of Caesar.
+GEN269,Pygmalion,George Bernard Shaw,Drama,Literature,English,A phonetics professor trains a flower girl.
+GEN270,Death of a Salesman,Arthur Miller,Drama,Literature,English,The decline of salesman Willy Loman.
+GEN271,Abhijnanasakuntalam,Kalidasa,Drama,Literature,Sanskrit,Sanskrit play about Shakuntala and King Dushyanta.
+GEN272,Hayavadana,Girish Karnad,Drama,Literature,Kannada,Kannada play on identity based on a Sanskrit tale.
+GEN273,Tughlaq,Girish Karnad,Drama,Literature,Kannada,Play about Sultan Muhammad bin Tughlaq.
+GEN274,The Importance of Being Earnest,Oscar Wilde,Drama,Literature,English,Comedy of mistaken identities.
+GEN275,Waiting for Godot,Samuel Beckett,Drama,Literature,French,Two men wait for someone who never arrives.
+GEN276,A Doll's House,Henrik Ibsen,Drama,Literature,Norwegian,A wife's decision to leave her marriage.
+GEN277,Zero to One,Peter Thiel,Business,Business,English,Notes on startups and building the future.
+GEN278,The Lean Startup,Eric Ries,Business,Business,English,Method for building startups through experiments.
+GEN279,Good to Great,Jim Collins,Business,Business,English,Why some companies make a leap to excellence.
+GEN280,The Hard Thing About Hard Things,Ben Horowitz,Business,Business,English,Advice on running a company.
+GEN281,Start with Why,Simon Sinek,Business,Business,English,How leaders inspire action.
+GEN282,India Unbound,Gurcharan Das,Business,Business,English,India's economic history from independence to the 2000s.
+GEN283,The Innovator's Dilemma,Clayton M. Christensen,Business,Business,English,Why successful firms fail to adapt to disruption.
+GEN284,Blue Ocean Strategy,W. Chan Kim,Business,Business,English,Creating uncontested market space.
+GEN285,Shoe Dog,Phil Knight,Business,Business,English,Memoir of Nike's founding.
+GEN286,Rich Dad Poor Dad,Robert T. Kiyosaki,Finance,Economics,English,Lessons on money and investing.
+GEN287,The Intelligent Investor,Benjamin Graham,Finance,Economics,English,Classic guide to value investing.
+GEN288,The Psychology of Money,Morgan Housel,Finance,Economics,English,How behaviour shapes financial decisions.
+GEN289,A Random Walk Down Wall Street,Burton G. Malkiel,Finance,Economics,English,Investing guide arguing for index funds.
+GEN290,The Little Book of Common Sense Investing,John C. Bogle,Finance,Economics,English,The case for low-cost index investing.
+GEN291,Let's Talk Money,Monika Halan,Finance,Economics,English,Personal finance guide for Indian readers.
+GEN292,The Richest Man in Babylon,George S. Clason,Finance,Economics,English,Parables on thrift and wealth.
+GEN293,One Up on Wall Street,Peter Lynch,Finance,Economics,English,Stock-picking advice for individual investors.
+GEN294,In Patagonia,Bruce Chatwin,Travel,Travel,English,Travelogue of southern South America.
+GEN295,The Great Railway Bazaar,Paul Theroux,Travel,Travel,English,Rail journey across Asia.
+GEN296,Travels with Charley,John Steinbeck,Travel,Travel,English,A road trip across America with a dog.
+GEN297,A Short Walk in the Hindu Kush,Eric Newby,Travel,Travel,English,Humorous account of a mountaineering trip.
+GEN298,Into the Wild,Jon Krakauer,Travel,Travel,English,The story of Christopher McCandless's Alaskan journey.
+GEN299,Eat Pray Love,Elizabeth Gilbert,Travel,Travel,English,"A memoir of travel in Italy, India and Indonesia."
+GEN300,The Songlines,Bruce Chatwin,Travel,Travel,English,Exploration of Aboriginal Australian songlines.
+GEN301,A Walk in the Woods,Bill Bryson,Travel,Travel,English,Humorous account of hiking the Appalachian Trail.
+GEN302,In an Antique Land,Amitav Ghosh,Travel,Travel,English,Blend of travelogue and history in Egypt.
+GEN303,Silent Spring,Rachel Carson,Nature,Environment,English,Warning on the environmental damage of pesticides.
+GEN304,Walden,Henry David Thoreau,Nature,Environment,English,Reflections on simple living in nature.
+GEN305,A Sand County Almanac,Aldo Leopold,Nature,Environment,English,Essays on ecology and land ethics.
+GEN306,Man-Eaters of Kumaon,Jim Corbett,Nature,Environment,English,Corbett's accounts of hunting man-eating tigers.
+GEN307,My India,Jim Corbett,Nature,Environment,English,Sketches of rural Indian life.
+GEN308,The Hidden Life of Trees,Peter Wohlleben,Nature,Environment,English,How trees communicate and live.
+GEN309,My Family and Other Animals,Gerald Durrell,Nature,Environment,English,Memoir of a boyhood on Corfu.
+GEN310,The Book of Indian Birds,Salim Ali,Nature,Environment,English,Field guide to Indian birds.
+GEN311,The Sixth Extinction,Elizabeth Kolbert,Nature,Environment,English,Account of the current mass extinction.
+GEN312,The Emperor of All Maladies,Siddhartha Mukherjee,Health,Health and Wellness,English,A biography of cancer.
+GEN313,Why We Sleep,Matthew Walker,Health,Health and Wellness,English,The science of sleep and dreams.
+GEN314,How Not to Die,Michael Greger,Health,Health and Wellness,English,Diet and prevention of chronic disease.
+GEN315,The Gene: An Intimate History,Siddhartha Mukherjee,Health,Health and Wellness,English,History of the gene and heredity.
+GEN316,Being Mortal,Atul Gawande,Health,Health and Wellness,English,"Medicine, ageing and end-of-life care."
+GEN317,Breath,James Nestor,Health,Health and Wellness,English,The science and practice of breathing.
+GEN318,The Body Keeps the Score,Bessel van der Kolk,Health,Health and Wellness,English,How trauma affects body and mind.
+GEN319,The Obesity Code,Jason Fung,Health,Health and Wellness,English,"Argument on hormones, insulin and weight."
+GEN320,Born to Run,Christopher McDougall,Fitness,Health and Wellness,English,Barefoot running and the Tarahumara.
+GEN321,Starting Strength,Mark Rippetoe,Fitness,Health and Wellness,English,Barbell training textbook.
+GEN322,Bigger Leaner Stronger,Michael Matthews,Fitness,Health and Wellness,English,Strength-training guide for men.
+GEN323,What I Talk About When I Talk About Running,Haruki Murakami,Fitness,Health and Wellness,Japanese,Memoir on running and writing.
+GEN324,Light on Yoga,B. K. S. Iyengar,Fitness,Health and Wellness,English,Illustrated guide to yoga postures.
+GEN325,Ultramarathon Man,Dean Karnazes,Fitness,Health and Wellness,English,Memoir of an ultramarathon runner.
+GEN326,Convict Conditioning,Paul Wade,Fitness,Health and Wellness,English,Bodyweight strength training system.
