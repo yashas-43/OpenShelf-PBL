@@ -1,6 +1,6 @@
-OpenShelf reconstructed stage 11/12: Peer exchange and notifications
+OpenShelf reconstructed stage 12/12: Tests and documentation
 
-Suggested commit message: Add peer exchange search and notifications
+Suggested commit message: Add tests documentation and final project files
 
 This archive is a thematic, cumulative reconstruction from the final uploaded project, NOT verified historical project progress. Early stages may not run independently because files depend on later stages. Use only for review or genuine further development; do not misrepresent these as past commits.
 
