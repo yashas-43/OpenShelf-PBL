@@ -1,6 +1,6 @@
-OpenShelf reconstructed stage 6/12: Student library and PDFs
+OpenShelf reconstructed stage 7/12: Borrowing and inventory
 
-Suggested commit message: Add student textbook catalogue and PDF access
+Suggested commit message: Implement borrowing and inventory management
 
 This archive is a thematic, cumulative reconstruction from the final uploaded project, NOT verified historical project progress. Early stages may not run independently because files depend on later stages. Use only for review or genuine further development; do not misrepresent these as past commits.
 
